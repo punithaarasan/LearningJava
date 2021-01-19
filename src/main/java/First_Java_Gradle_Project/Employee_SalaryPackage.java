@@ -4,7 +4,7 @@ public class Employee_SalaryPackage {
 
 	public static void main(String[] args) {
 		Salary_With_Bonus obj = new Salary_With_Bonus();
-		obj.BasicSal= 50000;	
+		obj.BasicSal= 60000;	
 		obj.DA = 8000;
 		obj.YrsofService = 40;
 		obj.bonus_percent = 20;
