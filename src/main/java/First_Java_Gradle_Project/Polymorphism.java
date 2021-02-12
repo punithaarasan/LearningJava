@@ -17,6 +17,7 @@ public class Polymorphism {
 		
 		MethodORsub ORs = new MethodORsub();
 		ORs.display();
+		
 	}
 
 }
